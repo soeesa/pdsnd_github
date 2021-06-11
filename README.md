@@ -20,12 +20,11 @@ Contributors names and contact info for this project: Sarah Soehlemann
 
 ## Version History
 
+* 1.1
+    * Documentation update and bug fixes
 * 1.0
     * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 

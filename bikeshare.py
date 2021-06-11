@@ -1,3 +1,4 @@
+# This project is for the Udacity Nanodegree Programming for Data Science with Python
 import time
 import datetime
 import pandas as pd
