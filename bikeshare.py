@@ -66,6 +66,7 @@ def load_data(city, month, day):
         df = df[df['day of week'] == day.title()]
     return df
 
+# Fake change for project: Changed mode to use NumPy libraries to filter data quicker.
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
