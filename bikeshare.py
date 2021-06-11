@@ -36,6 +36,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
+# Fake change for project: Chose grouped filter for the data input.
 
 def load_data(city, month, day):
     """
